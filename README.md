@@ -96,7 +96,7 @@ The repository is structured as a tutorial-style analysis designed to explain ea
 
 ---
 
-## 📊 Key concepts demonstrated
+## 📊 Key concepts 
 
 - Multi-cohort transcriptomic integration
 - Cross-platform harmonization
